@@ -22,16 +22,3 @@ This project demonstrates a Zero-Knowledge Proof (ZKP)-based system for verifyin
    - Generate a witness file and create a zkSNARK proof using SnarkJS.
 4. **Proof Validation**:
    - Verify the proof locally using SnarkJS.
-
-## **Getting Started**
-### **Prerequisites**
-- Node.js (v14+)
-- Circom (v2.1+)
-- SnarkJS
-- Python 3.x
-
-### **Setup**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/file-integrity-zkp.git
-   cd file-integrity-zkp
