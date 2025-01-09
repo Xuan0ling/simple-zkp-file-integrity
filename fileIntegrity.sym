@@ -1,0 +1,4 @@
+1,1,0,main.isValid
+2,2,0,main.fileHash
+3,3,0,main.storedHash
+4,4,0,main.diff
